@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-
 import 'Home.dart';
-
 import 'Information.dart';
 import 'Contact.dart';
 
